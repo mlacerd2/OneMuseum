@@ -82,7 +82,7 @@ input, select, textarea {
 
 #hero {
   text-align: cover;
-  background: url("../imgs/carousel_1.jpg");
+  background: url("carousel_1.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
