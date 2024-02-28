@@ -82,7 +82,7 @@ input, select, textarea {
 
 #hero {
   text-align: cover;
-  background: url("carousel_1.jpg");
+  background: url("https://github.com/mlacerd2/OneMuseum/blob/main/carousel_1.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
